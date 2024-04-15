@@ -1,4 +1,4 @@
-# Product Management System
+# DEMO-PRODUCTS System
 ## This is a simple Spring Boot application for managing products.
 
 Features
